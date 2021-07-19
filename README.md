@@ -13,4 +13,3 @@ ___
     </div>
 </div>
 <br>
-<p>I'm on a short hiatus from making themes to reflect on myself! Thanks<p>
