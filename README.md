@@ -12,3 +12,5 @@ ___
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="33">
     </div>
 </div>
+<br>
+<p>I'm on a short hiatus from making themes to reflect on myself! Thanks<p>
