@@ -4,6 +4,7 @@
 <p> Ello, I'm Loremly, just another amateur front end developer doing everything he can to not learn JS. But I do know the following!</p>
 
 <br>
+<br>
 
 <div>
     <div style="display:flex;flex-direction:row;">
