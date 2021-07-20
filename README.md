@@ -3,7 +3,7 @@
 <h2>About me ✏️</h2>
 <p> Ello, I'm Loremly, just another amateur front end developer doing everything he can to not learn JS. But I do know the following!</p>
 
-___
+<br>
 
 <div>
     <div style="display:flex;flex-direction:row;">
@@ -13,3 +13,5 @@ ___
     </div>
 </div>
 <br>
+
+___
