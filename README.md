@@ -1,7 +1,7 @@
 <a href="https://discord.com/users/597072695875600385"><img align="left" src="https://lanyard-profile-readme.vercel.app/api/597072695875600385?theme=dark&bg=161b22&animated=false&hideDiscrim=true&borderRadius=5px"/></a>
 
 <h2>About me ✏️</h2>
-<p> Ello, I'm Loremly, just another amateur front end developer doing everything he can to not learn JS. But I do know the following! Nebula Coming Soon!
+<p> Ello, I'm Loremly, just another amateur front end developer doing everything he can to not learn JS. But I do know the following! Check out <a href="https://github.com/loremly/nebula">Nebula</a> now!
 </p>
 <div>
     <div style="display:flex;flex-direction:row;">
