@@ -12,8 +12,6 @@
    <br>
    </samp><br>
 <p align="center"><samp> ~
-   <a href="https://www.reddit.com/user/Loremly">reddit</a>
-   ·
    <a href="https://discord.com/users/597072695875600385">discord</a>
    ~ </samp><br><br>
    
